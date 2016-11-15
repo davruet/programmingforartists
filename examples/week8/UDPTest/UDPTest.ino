@@ -21,8 +21,6 @@ void setup() {
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
   
-  login();
-
   Udp.begin(localUdpPort);
 
 }
