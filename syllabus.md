@@ -190,8 +190,6 @@ Browse the lists of participating artists at these sites to gain knowledge of co
 * Art and Electronic Media, Edward A Shanken  
 * [The Nature of Code](http://natureofcode.com/book/
 ), Daniel Shiffman
-* [Class Dropbox with PDF books] (https://www.dropbox.com/sh/okd52chi3vj4uqr/AABJpj0jlfQMnVmqvhia_42Da?dl=0)
-
 
 ## Schedule
 
